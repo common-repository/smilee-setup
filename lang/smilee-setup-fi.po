@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smilee Chat Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-23 12:31+0200\n"
+"PO-Revision-Date: 2017-11-23 12:31+0200\n"
+"Last-Translator: wptestuser <zrcni9@gmail.com>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: smilee_options;__;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/class-smilee-setup-db.php:87
+msgid "Script was added to the footer."
+msgstr "Scripti lisätty footeriin."
+
+#: includes/class-smilee-setup-db.php:92
+msgid "Script was removed from the footer."
+msgstr "Scripti poistettu footerista."
+
+#: includes/class-smilee-setup.php:31
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sinulla ei ole riittäviä oikeuksia päästäksesi tälle sivulle."
+
+#: includes/smilee-setup-options.php:13
+msgid "Paste the script provided by Smilee"
+msgstr "Liitä scripti jonka sait Smileeltä"
+
+#: includes/smilee-setup-options.php:21
+msgid "Save"
+msgstr "Tallenna"
+
+#: includes/smilee-setup-options.php:22
+msgid "Remove script"
+msgstr "Poista scripti"
